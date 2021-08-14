@@ -14,14 +14,14 @@ package de.thmac;
 import java.text.*; // DateFormat etc.
 import java.util.*; // Locale etc.
 
-import de.thmac.swisseph.*;
+import swisseph.*;
 
 /**
  * Test program for planetary transits. See class swisseph.SwissEph.
  * <P>
  * Invoke with parameter -h to get the help text.
  * 
- * @see de.thmac.swisseph.SwissEph
+ * @see swisseph.SwissEph
  */
 public class Transits implements java.io.Serializable {
 

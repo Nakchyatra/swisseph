@@ -71,7 +71,7 @@ package de.thmac;
 import java.io.*;
 import java.util.Locale;
 
-import de.thmac.swisseph.*;
+import swisseph.*;
 
 /**
  * Test program for solar and lunar eclipses, rises, sets, and meridian transits
@@ -81,7 +81,7 @@ import de.thmac.swisseph.*;
  * <P>
  * Invoke with parameter -h to get the help text.
  * 
- * @see de.thmac.swisseph.SwissEph
+ * @see swisseph.SwissEph
  */
 public class Sweclips implements java.io.Serializable {
 

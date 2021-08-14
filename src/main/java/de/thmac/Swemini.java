@@ -85,7 +85,7 @@ package de.thmac;
 import java.io.*;
 import java.util.Locale;
 
-import de.thmac.swisseph.*;
+import swisseph.*;
 
 public class Swemini implements java.io.Serializable {
 

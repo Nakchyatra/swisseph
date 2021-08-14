@@ -80,7 +80,7 @@ import java.io.*;
 import java.util.Locale;
 import java.util.StringTokenizer;
 
-import de.thmac.swisseph.*;
+import swisseph.*;
 
 /**
  * A class to test (probably) all of the swiss ephemeris routines with

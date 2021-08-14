@@ -18,8 +18,8 @@ Add jitpack repostitory in your pom.xml:
 And then add dependency:
 ```xml
 		<dependency>
-			<groupId>com.github.krishnact</groupId>
+			<groupId>com.github.Nakchyatra</groupId>
 			<artifactId>swisseph</artifactId>
-			<version>-SNAPSHOT</version>
+			<version>latest-version</version>
 		</dependency>
 ```
